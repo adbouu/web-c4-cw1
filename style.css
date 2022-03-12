@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: blanchedalmond;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cell{
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
